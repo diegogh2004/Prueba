@@ -1,0 +1,11 @@
+header{
+    background-color: black;
+}
+
+.home{
+    color: yellow;
+}
+
+header nav ul li a {
+    color: yellowgreen
+}
